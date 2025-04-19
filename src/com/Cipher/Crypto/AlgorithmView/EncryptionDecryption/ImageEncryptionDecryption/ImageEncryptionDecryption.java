@@ -122,6 +122,7 @@ public class ImageEncryptionDecryption extends JFrame implements ActionListener 
                 + " - DES 56-bit encryption<br><br>"
                 + "This uses the Java Cryptographic Extension (JCE) API "
                 + "from the <code>javax.crypto</code> package."
+                + "<br><hr><div style='text-align:right; font-size:10px;'>MadeBy@ShreeGovindJee</div>"
                 + "</body></html>";
         JOptionPane.showMessageDialog(null, infoMessage, "Contact Info", JOptionPane.INFORMATION_MESSAGE);
     }
